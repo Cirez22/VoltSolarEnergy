@@ -1,0 +1,160 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(11.png);
+    height: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'futura';
+    overflow: hidden;
+}
+
+h1{
+    font-family: "futura";
+}
+
+p{
+    font-family: "futura";
+
+}
+
+.bt{
+    margin: 50px;
+}
+
+.logo {
+    margin-top: 30px;
+    height: 80px;
+}
+
+.saving {
+    margin-top: 30px;
+}
+
+footer {
+    margin-top: 2000px;
+    font-size: 10px;
+}
+
+footer span a{
+    text-decoration: none;
+    font-size: 10px;
+}
+
+
+@font-face {
+  font-family: 'futura';
+  src: url('/futura/Futura\ Light\ font.ttf')  format('truetype');
+}
+
+/* Section 1 Home */
+
+#home {
+    background: #012647;
+}
+
+.numbers {
+    font-size: 30px;
+    font-family: "futura";
+
+}
+
+
+#cross{
+    margin-top: 20px;
+    margin-left: 30px;
+    color: white;
+}
+
+#check{
+    margin-top: 20px;
+    margin-right: 20px;
+    color: white;
+}
+
+#cross:hover {
+    color: red;
+}
+
+
+#check:hover {
+    color: green;
+}
+
+.tag {
+    font-size:  30px;
+}
+
+/* Section 2 Zipcode */
+
+#ziptext {
+    margin-bottom: 40px;
+    font-family: "futura";
+
+}
+
+#zipcode {
+    background: #012647;
+}
+
+#zip {
+text-align: center;
+width: 500px;
+font-family: "futura";
+
+}
+
+
+/* Section 3 Bill */
+
+#bill
+
+{
+    background: #012647;
+}
+
+
+/* Section 4 Email */
+
+#email
+
+{
+    background: #012647;
+}
+
+#mail{
+    margin: 10px;
+    text-align: center;
+    width: 500px;
+    font-family: "futura";
+
+}
+
+
+/* Section 4 Finish */
+
+#finish{
+    background: #012647;
+}
+
+#emailtext {
+    font-size: 20px;
+    font-family: "futura";
+
+}
+
+
+/* Section 5 Friend */
+
+#friend{
+    background: #012647;
+}
+
+#friendtext {
+    font-size: 30px;
+    font-family: "futura";
+}
